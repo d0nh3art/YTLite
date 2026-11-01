@@ -10,17 +10,17 @@
 "FeaturesNotActivated" = "No has iniciado sesión. Para acceder a las características de YouTube Plus, por favor inicia sesión con una cuenta con una suscripción activa.";
 
 /* Account status */
-"Access.Status" = "Status";
-"Access.Active" = "Active";
-"Access.AccountRequired" = "Account required";
-"Access.LogIn" = "Log in";
-"Access.DeviceLimit" = "Device limit reached";
-"Access.DeviceNotRegistered" = "Device is not linked";
-"Access.InsufficientPlan" = "Subscription level is too low";
-"Access.NotFound" = "Account not found";
-"Access.AppNotFound" = "App is not registered";
-"Access.SignInAgain" = "Sign in again";
-"Access.RequestError" = "Request error";
+"Access.Status" = "Estado";
+"Access.Active" = "Activo";
+"Access.AccountRequired" = "Cuenta requerida";
+"Access.LogIn" = "Iniciar sesión";
+"Access.DeviceLimit" = "Límite de dispositivo alcanzado";
+"Access.DeviceNotRegistered" = "El dispositivo no está enlazado";
+"Access.InsufficientPlan" = "El nivel de suscripción es demasiado bajo";
+"Access.NotFound" = "Cuenta no encontrada";
+"Access.AppNotFound" = "La App no está regitrada";
+"Access.SignInAgain" = "Iniciar sesión de nuevo";
+"Access.RequestError" = "Error de solicitud";
 
 /* Main section */
 "Main" = "Principal";
@@ -46,10 +46,10 @@
 
 "PostDownloadAction" = "Acción posterior a la descarga";
 "PostDownloadDesc" = "La acción seleccionada se ejecutará al completar con éxito la descarga del vídeo.";
-"SaveToDownloads" = "Downloads";
+"SaveToDownloads" = "Descargas";
 "SaveToPhotos" = "Guardar en fotos";
 "Share" = "Compartir";
-"SaveToPrivate" = "Private section";
+"SaveToPrivate" = "Sección privada";
 "Copy" = "Copiar";
 "Ask" = "Preguntar";
 "DownloadCompleted" = "Descarga completada";
@@ -82,8 +82,8 @@
 "RemoveCastDesc" = "Oculta el botón Emitir de la barra de navegación.";
 "RemoveNotifications" = "Ocultar botón de Notificaciones";
 "RemoveNotificationsDesc" = "Oculta el botón de Notificaciones de la barra de navegación.";
-"RemoveMessages" = "Hide Messages button";
-"RemoveMessagesDesc" = "Hides Messages button from the Navigation bar.";
+"RemoveMessages" = "Ocultar botón de Mensajes";
+"RemoveMessagesDesc" = "Oculta el botón de Mensajes de la barra de navegación.";
 "RemoveSearch" = "Ocultar botón de Búsqueda";
 "RemoveSearchDesc" = "Oculta el botón de Búsqueda de la barra de navegación.";
 "RemoveVoiceSearch" = "Ocultar botón de Búsqueda por voz";
@@ -108,22 +108,22 @@
 "RemoveCommunityPostsDesc" = "Elimina las publicaciones de la comunidad del feed.";
 "RemoveMixPlaylists" = "Eliminar mezclas";
 "RemoveMixPlaylistsDesc" = "Elimina las listas de reproducción de mezclas generadas por YouTube del feed.";
-"RemovePlaylists" = "Remove playlists";
-"RemovePlaylistsDesc" = "Removes playlist cards from the feed.";
-"KeepPlaylistsInSubscriptions" = "Keep playlists in Subscriptions";
-"KeepPlaylistsInSubscriptionsDesc" = "Prevents removing playlists from Subscriptions tab.";
+"RemovePlaylists" = "Eliminar listas de reproducción";
+"RemovePlaylistsDesc" = "Elimina las tarjetas de lista de reproducción del feed.";
+"KeepPlaylistsInSubscriptions" = "Mantener listas de reproducción en las suscripciones";
+"KeepPlaylistsInSubscriptionsDesc" = "Previene la eliminación de las listas de reproducción en la pestaña de suscripciones.";
 "RemoveLiveVids" = "Eliminar transmisiones en vivo";
 "RemoveLiveVidsDesc" = "Elimina las transmisiones en vivo de la pestaña de inicio.";
-"RemoveUpcomingLives" = "Remove upcoming streams";
-"RemoveUpcomingLivesDesc" = "Removes scheduled stream announcements from the feed.";
+"RemoveUpcomingLives" = "Eliminar transmisiones próximas";
+"RemoveUpcomingLivesDesc" = "Elimina anuncios de transmisiones programadas del feed.";
 "RemoveHorizontalFeeds" = "Eliminar feeds horizontales";
 "RemoveHorizontalFeedsDesc" = "Elimina todos los feeds horizontales (Noticias, Continuar viendo, Colección de publicaciones, etc.) de la pestaña de inicio.";
 "RemoveMoreTopics" = "Eliminar \"Más temas\"";
 "RemoveMoreTopicsDesc" = "Elimina \"Más temas\" del feed.";
 "RemovePlayables" = "Quitar reproducibles";
 "RemovePlayablesDesc" = "Elimina reproducibles (minijuegos) del feed.";
-"RemoveMembersOnly" = "Remove members-only videos";
-"RemoveMembersOnlyDesc" = "Removes videos available to channel members only from the feed.";
+"RemoveMembersOnly" = "Eliminar vídeos solo para miembros";
+"RemoveMembersOnlyDesc" = "Elimina vídeos disponibles solo para miembros del canal del feed.";
 "FixAlbums" = "Corregir portadas";
 "FixAlbumsDesc" = "Corrige la visualización de portadas para usuarios de Rusia.";
 
@@ -143,11 +143,11 @@
 "IgnoreAutoDubDesc" = "Salta la selección manual si la pista de idioma de preferencia está auto-doblada.";
 "CustomCaptions" = "Subtítulos seleccionados";
 "CustomCaptionsDesc" = "Especifica los subtítulos del idoma seleccionado a mostrar, si etá disponible";
-"AddLanguage" = "Add language";
+"AddLanguage" = "Añadir idioma";
 "AutoGenCaps" = "Subtítulos autogenerados";
 "AutoGenCapsDesc" = "Si no se encuentran los subtítulos seleccionados, YouTube Plus intentará seleccionar una traducción de los subtítulos originales o una traducción de los subtítulos autogenerados.";
-"CaptionsIfNoAudio" = "Captions if no preferred audio";
-"CaptionsIfNoAudioDesc" = "If the video has no audio track in your languages, captions in the selected languages are turned on.";
+"CaptionsIfNoAudio" = "Subtítulos si no hay audio preferido";
+"CaptionsIfNoAudioDesc" = "Si el vídeo no tiene pista de audio en tu idioma, los subtítulos se activarán en el idioma seleccionado.";
 "FixPlayback" = "Fix playback";
 "FixPlaybackDesc" = "Helps with playback problems on older devices and sideloaded apps. If videos play fine for you, it's better to leave this off.";
 "FixPlayback.Enabled" = "Playback failed, so the playback fix was turned on. You can turn it off in player settings.";
